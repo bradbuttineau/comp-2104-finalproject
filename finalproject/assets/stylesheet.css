@@ -155,7 +155,7 @@ h1.home-title {
 }
 
 div#navbarNav {
-    margin-left: 50%;
+    margin-left: 40%;
     height: fit-content;
     width: fit-content;
 }
@@ -287,8 +287,8 @@ nav.woocommerce-MyAccount-navigation {
 }
 
 nav.woocommerce-MyAccount-navigation > ul {
-    list-style: n;
-    l
+    list-style: none;
+
 }
 
 
